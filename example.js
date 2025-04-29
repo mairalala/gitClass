@@ -3,3 +3,4 @@ function saludar(nombre) {
 }
 
 saludar('Jose Luis');
+saludar("Laura Ramirez");
